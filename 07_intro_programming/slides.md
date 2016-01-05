@@ -1,10 +1,6 @@
-![GeneralAssemb.ly](../../img/icons/FEWD_Logo.png)
-
 #FEWD - Intro Programming
 
-###Instructor Name
-
-Instructors current role.
+###Matt Soria
 
 ---
 
@@ -63,9 +59,6 @@ The only things a computer knows are the things we tell it.
 
 Pseudocode is the process of writing a program without using the syntax of a programming language.
 
-Note:
-We will talk about algorithms later.
-
 Pseudocode is a mixture of natural language and high-level programming constructs. For example,
 If the door is closed and I want to exit the room, then open the door
 This semester we will learn what these keywords and structures are and how they are used to create a program…
@@ -93,12 +86,12 @@ This semester we will learn what these keywords and structures are and how they 
 ---
 ![GeneralAssemb.ly](../../img/icons/code_along.png)
 ##Color Switcher
-
+http://codepen.io/poopsplat/pen/bEgVyV
 ---
 
 
 
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##Traffic Light
-
+http://codepen.io/poopsplat/pen/wMgKVa
 ---
