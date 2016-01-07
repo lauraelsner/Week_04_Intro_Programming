@@ -61,6 +61,12 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ---
 
+###Selector Fun Part2
+
+Follow the instructions in the `main.js` file in the `select_fun_part2` folder, or in the `instructions.txt` file to make selections and manipulate the DOM using JavaScript and jQuery.
+
+---
+
 ###Final Project Milestone 1
 
 **[View the Final Project Requirements/Guide](https://github.com/GA-Chicago-FEWD6/Final_Project/blob/master/final_project_requirements.md)**
