@@ -36,3 +36,10 @@ li:nth-child(even) {
 #faqs .active {
   background-color: #ffd800;
 }
+
+.fun {
+  color: #3D67C9;
+  background-color: #f2f2f2;
+}
+
+
