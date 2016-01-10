@@ -17,7 +17,7 @@ $('.box').addClass('fun');
 $('#box2').on('click', function() {
 	$('.box').removeClass('crazy');
 	$('h1').addClass('crazy');
-	$('#box3').slideToggle(1000);
+	$('#box3').slideToggle(300);
 });
 
 
@@ -32,6 +32,7 @@ $('.box').on('click', function() {
 $('#box1').on('click', function() {
 	$(".moto").attr("src", "images/moto.jpg");
 }); 
+// shows picture of scooter below boxes
 
 
 /**
