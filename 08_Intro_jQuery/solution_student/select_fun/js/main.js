@@ -20,7 +20,6 @@ $('#box2').on('click', function() {
 	$('#box3').slideToggle(300);
 });
 
-
 // 4. When any .box is clicked, change the text in the header's h1 tag to read "jQuery Ninja"
 $('.box').on('click', function() {
 	$('h1').html('jQuery Ninja');
